@@ -1,3 +1,0 @@
-git add .
-git commit -m "Adicionada estrutura básica do aplicativo de tradução de linguagem de sinais"
-git push origin main
