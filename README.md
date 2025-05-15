@@ -9,7 +9,7 @@
   
 ### Instalação e Execução
   1. Clone do Repositório: https://github.com/Giiiiovanna/Aplicativo-Mimika-/edit/main/README.md.git
-  2. Acesse a pasta do projeto: Cd mimika
+  2. Acesse a pasta do projeto: Cd sinalis
   3. Instale as dependências: npm install
   4. Execute o projeto: npm start
 <br/><br/> [![My Skills](https://skillicons.dev/icons?i=git,npm)](https://skillicons.dev)
