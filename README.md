@@ -1,4 +1,4 @@
-<img width=100% src= "https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aplicativo%20Mimika&fontColor=Black">
+<img width=100% src= "https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Aplicativo%20Sinalis&fontColor=Black&animation=fadeIn">
  <h1><i><p align="center">Olá Mundo! Seja muito bem-vindo(a)!</p></i></h1>
 
 ### Nome do projeto
